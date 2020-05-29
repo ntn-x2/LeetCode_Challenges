@@ -1,4 +1,4 @@
-# 1296. RLE Iterator
+# 900. RLE Iterator
 
 Write an iterator that iterates through a run-length encoded sequence.
 
