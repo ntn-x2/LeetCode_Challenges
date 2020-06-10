@@ -6,6 +6,7 @@ Following is a list of all the challenge solutions present in this repository, (
 
 |   TITLE   |   REPO LOCATION   |
 |:---------:|:----------------:|
-|[1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[here](./Challenges/Medium/1296)|
+|[207. Course Schedule](https://leetcode.com/problems/course-schedule/)|[here](./Challenges/Medium/207)|
 |[900. RLE Iterator](https://leetcode.com/problems/rle-iterator/)|[here](./Challenges/Medium/900)|
 |[931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[here](./Challenges/Medium/931)|
+|[1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[here](./Challenges/Medium/1296)|
