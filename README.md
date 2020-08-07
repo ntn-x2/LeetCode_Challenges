@@ -9,6 +9,7 @@ Following is a list of all the challenge solutions present in this repository, (
 |[292. Nim Game](https://leetcode.com/problems/nim-game/)|[here](./Challenges/Easy/292)|
 |[461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[here](./Challenges/Easy/461)|
 |[551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[here](./Challenges/Easy/551)|
+|[937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|[here](./Challenges/Easy/937)|
 
 # Medium
 
