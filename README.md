@@ -25,6 +25,7 @@ Following is a list of all the challenge solutions present in this repository, (
 |[1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[here](./Challenges/Medium/1296)|
 |[1315. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[here](./Challenges/Medium/1315)|
 |[1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|[here](./Challenges/Medium/1376)|
+|[1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)|[here](./Challenges/Medium/1466)|
 
 # Hard
 
