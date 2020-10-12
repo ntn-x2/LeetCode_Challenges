@@ -37,3 +37,4 @@ Following is a list of all the challenge solutions present in this repository, (
 |[295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[here](./Challenges/Hard/295)|
 |[749. Contain Virus](https://leetcode.com/problems/contain-virus/)|[here](./Challenges/Hard/749)|
 |[1032. Stream of Characters](https://leetcode.com/problems/stream-of-characters/)|[here](./Challenges/Hard/1032)|
+|[1340. Jump Game V](https://leetcode.com/problems/jump-game-v)|[here](./Challenges/Hard/1340)|
