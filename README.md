@@ -24,6 +24,7 @@ Following is a list of all the challenge solutions present in this repository, (
 |[900. RLE Iterator](https://leetcode.com/problems/rle-iterator/)|[here](./Challenges/Medium/900)|
 |[931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[here](./Challenges/Medium/931)|
 |[958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[here](./Challenges/Medium/958)|
+|[1104. Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/)|[here](./Challenges/Medium/1104)|
 |[1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[here](./Challenges/Medium/1296)|
 |[1315. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[here](./Challenges/Medium/1315)|
 |[1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)|[here](./Challenges/Medium/1328)|
