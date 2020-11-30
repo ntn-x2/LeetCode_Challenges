@@ -16,6 +16,7 @@ Following is a list of all the challenge solutions present in this repository, (
 |   TITLE   |   REPO LOCATION   |
 |:---------:|:----------------:|
 |[34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[here](./Challenges/Medium/34)|
+|[47. Permutations II](https://leetcode.com/problems/permutations-ii/)|[here](./Challenges/Medium/47)|
 |[109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[here](./Challenges/Medium/109)|
 |[207. Course Schedule](https://leetcode.com/problems/course-schedule/)|[here](./Challenges/Medium/207)|
 |[210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[here](./Challenges/Medium/210)|
