@@ -22,6 +22,7 @@ Following is a list of all the challenge solutions present in this repository, (
 |[210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[here](./Challenges/Medium/210)|
 |[230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[here](./Challenges/Medium/230)|
 |[332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[here](./Challenges/Medium/332)|
+|[386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|[here](./Challenges/Medium/386)|
 |[567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[here](./Challenges/Medium/567)|
 |[900. RLE Iterator](https://leetcode.com/problems/rle-iterator/)|[here](./Challenges/Medium/900)|
 |[931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[here](./Challenges/Medium/931)|
