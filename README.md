@@ -20,6 +20,7 @@ Following is a list of all the challenge solutions present in this repository, (
 |[109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[here](./Challenges/Medium/109)|
 |[207. Course Schedule](https://leetcode.com/problems/course-schedule/)|[here](./Challenges/Medium/207)|
 |[210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[here](./Challenges/Medium/210)|
+|[223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)|[here](./Challenges/Medium/223)|
 |[230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[here](./Challenges/Medium/230)|
 |[332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[here](./Challenges/Medium/332)|
 |[386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|[here](./Challenges/Medium/386)|
